@@ -20,6 +20,6 @@ Discord: ReVoo#7011
 
 <img style="margin-top:15px" alt="Wierzba13 - gitHub stats" src="https://github-readme-stats.vercel.app/api?username=Wierzba13&count_private=true&show_icons=true&theme=radical&custom_title=Raul Wierzbiński - github stats" />
 
-[website]: https://codeSTACKr.com
+[website]: https://itzilla.herokuapp.com/
 [github]: https://github.com/Wierzba13
 [instagram]: https://www.instagram.com/r_wierzba_13/

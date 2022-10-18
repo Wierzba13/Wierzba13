@@ -1,16 +1,57 @@
-### Hi there 👋
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Arvo&size=28&duration=4500&pause=800&color=58A6FF&background=000000&center=true&vCenter=true&width=435&height=80&lines=My+name+is+Raul;Welcome+to+my+profile" align="center" style="width: 100%" />
+</div>  
+  
 
-<!--
-**Wierzba13/Wierzba13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">Hello, I'm ambitious young programmer major in Java and web technologies ⌨️</div>  
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 Currently, I am attending the fourth grade of technical secondary school  
+  
+
+- ⏳ 18yo  
+  
+
+- ❓ Have you got any questions? Text me  
+  
+
+<br/>  
+
+
+
+### Contact with me  
+<div align="center">
+<a href="https://github.com/Wierzba13" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/wujooo_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+#### **<div align="center">Discord : ReVoo#7011</div>**  
+  
+  
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Wierzba13&show_icons=true&count_private=true&hide_border=true&theme=highcontrast&title_color=58a6ff" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Wierzba13&&style=flat-square" align="center" />
+</div>  
+
+<br />

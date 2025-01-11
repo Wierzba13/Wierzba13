@@ -7,10 +7,10 @@
 
 <br>
 
-- 👨‍🎓 Currently, I am attending the fourth grade of technical secondary school  
+- 👨‍🎓 [UMG](https://umg.edu.pl/) student
   
 
-- ⏳ 18yo  
+- ⏳ 20yo
   
 
 - ❓ Have you got any questions? Text me  
